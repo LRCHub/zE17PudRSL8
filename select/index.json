@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ハッピーラッキーチャッピー",
+  "base_artist": "ano",
+  "createdAt": "2025-12-11T11:04:06.590576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ハッピーラッキーチャッピー",
+      "artist": "ano",
+      "has_synced": false,
+      "path": "select/01_ハッピーラッキーチャッピー_ano.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハッピーラッキーチャッピー",
+      "artist": "ano",
+      "has_synced": false,
+      "path": "select/pl_01_ハッピーラッキーチャッピー_ano.txt"
+    }
+  ]
+}
